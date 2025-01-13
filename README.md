@@ -65,10 +65,6 @@ This project focused on developing robust computer vision and sensing algorithms
 - Extend the methodology to handle more complex and irregular rotating objects.
 
 ## Acknowledgments
-- This project was conducted as part of the COMP0241 coursework.
-- Special thanks to the University College London for providing access to the AO model and experimental setup.
-
-## Acknowledgments
 
 - This project was developed as part of the assessment for the [COMP0241 - Computer Vision and Sensing](https://www.ucl.ac.uk/module-catalogue/modules/computer-vision-and-sensing-COMP0241) module at University College London. 
 - It was a collaborative effort by myself, [@ziyaruso](), and [@lorenzouttini](https://github.com/lorenzouttini).
